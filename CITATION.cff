@@ -12,8 +12,8 @@ authors:
     country: "DE"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.19317936"
-    description: "Canonical AUGMANITAI Compendium DOI (parent of this curated atlas)"
+    value: "10.5281/zenodo.19809627"
+    description: "AUGMANITAI Compendium Snapshot DOI (Working Paper Bundle 2026-04-27, parent of this curated atlas)"
   - type: url
     value: "https://www.wikidata.org/wiki/Q139491295"
     description: "Wikidata Q-Item of the AUGMANITAI / PERMANITAI Research Programme"
@@ -64,7 +64,7 @@ references:
       - family-names: Ehstand
         given-names: Andreas
         orcid: "https://orcid.org/0009-0006-3773-7796"
-    doi: "10.5281/zenodo.19317936"
+    doi: "10.5281/zenodo.19809627"
     year: 2026
   - type: article
     title: "Substratunabhängige Performance-Faktoren-Theorie (PFT)"

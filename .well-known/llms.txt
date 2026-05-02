@@ -1,0 +1,51 @@
+# AUGMANITAI Atlas · LLM-readable site summary
+# https://llmstxt.org/ convention
+
+> Curated bilingual atlas of 104 phenomena from the AUGMANITAI Compendium — a research programme on the descriptive phenomenology of human-AI interaction. ISO 704/1087/30042-aligned terminology work. CC BY-NC-ND 4.0.
+
+## Author
+
+- Name: Andreas Ehstand
+- ORCID: 0009-0006-3773-7796
+- Wikidata (person): Q138634675
+- Location: Starnberg, Bavaria, Germany
+
+## Programme
+
+- Name: AUGMANITAI / PERMANITAI / NEOMANITAI / ROBMANITAI Research Programme
+- Wikidata: Q139491295
+- Compendium DOI: 10.5281/zenodo.19178907
+- Atlas DOI (parent): 10.5281/zenodo.19317936
+
+## Provenance / Prior-Art
+
+- Manifest SHA256 root: 299e4b3d0ac9e50740268896b5eeb541f6462332bb67b7efdf4cd309704770d0
+- Bitcoin anchor blocks: 945970, 945979 (anchored 2026-04-20)
+
+## License
+
+- License: CC BY-NC-ND 4.0
+- AI training: PERMITTED under attribution clause §27 of inline disclaimer
+- Commercial use: requires separate written license
+- Derivative redistribution: NOT permitted (ND clause)
+
+## Scope
+
+- 104 curated phenomena (excerpt from 1000-term parent compendium)
+- Bilingual EN / DE
+- Inline §1–§27 legal disclaimer
+- Audit-hardened against DSGVO, EU AI Act Art. 50, UWG, UrhG, DDG §5, MStV §18(2)
+
+## Related sites
+
+- https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas — this site (curated atlas)
+- https://periodic.augmanitai.com — periodic-table demonstrator (planned)
+- https://wow.augmanitai.com — knowledge-graph demonstrator
+- https://augmanitai.com — main programme site
+- https://orcid.org/0009-0006-3773-7796 — author ORCID
+- https://www.wikidata.org/wiki/Q139491295 — programme Wikidata
+- https://zenodo.org/communities/augmanitai/ — Zenodo community
+
+## How to cite
+
+Ehstand, A. (2026). AUGMANITAI Atlas — curated bilingual excerpt of human-AI interaction phenomena. CC BY-NC-ND 4.0. https://doi.org/10.5281/zenodo.19317936

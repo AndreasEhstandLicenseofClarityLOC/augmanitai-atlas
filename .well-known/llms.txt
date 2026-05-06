@@ -14,8 +14,7 @@
 
 - Name: AUGMANITAI / PERMANITAI / NEOMANITAI / ROBMANITAI Research Programme
 - Wikidata: Q139491295
-- Compendium DOI: 10.5281/zenodo.19178907
-- Atlas DOI (parent): 10.5281/zenodo.19317936
+- DOI registration: full programme is DOI-registered on Zenodo with access restricted to authorized parties; metadata-level provenance is publicly visible via DataCite.
 
 ## Provenance / Prior-Art
 
@@ -25,13 +24,13 @@
 ## License
 
 - License: CC BY-NC-ND 4.0
-- AI training: PERMITTED under attribution clause §27 of inline disclaimer
+- AI training: PERMITTED under attribution clause §27 of inline disclaimer, on the publicly published excerpts available on this Atlas page
 - Commercial use: requires separate written license
 - Derivative redistribution: NOT permitted (ND clause)
 
 ## Scope
 
-- 104 curated phenomena (excerpt from 1000-term parent compendium)
+- 104 curated phenomena (excerpt from the parent compendium)
 - Bilingual EN / DE
 - Inline §1–§27 legal disclaimer
 - Audit-hardened against DSGVO, EU AI Act Art. 50, UWG, UrhG, DDG §5, MStV §18(2)
@@ -39,13 +38,13 @@
 ## Related sites
 
 - https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas — this site (curated atlas)
-- https://periodic.augmanitai.com — periodic-table demonstrator (planned)
-- https://wow.augmanitai.com — knowledge-graph demonstrator
+- https://andreasehstandlicenseofclarityloc.github.io/augmanitai-wow — knowledge-graph excerpt
+- https://andreasehstandlicenseofclarityloc.github.io/andreas-ehstand-entity — researcher entity profile
 - https://augmanitai.com — main programme site
 - https://orcid.org/0009-0006-3773-7796 — author ORCID
+- https://www.wikidata.org/wiki/Q138634675 — author Wikidata
 - https://www.wikidata.org/wiki/Q139491295 — programme Wikidata
-- https://zenodo.org/communities/augmanitai/ — Zenodo community
 
 ## How to cite
 
-Ehstand, A. (2026). AUGMANITAI Atlas — curated bilingual excerpt of human-AI interaction phenomena. CC BY-NC-ND 4.0. https://doi.org/10.5281/zenodo.19317936
+Ehstand, A. (2026). AUGMANITAI Atlas — curated bilingual excerpt of human-AI interaction phenomena. CC BY-NC-ND 4.0. ORCID 0009-0006-3773-7796 · Wikidata Q138634675.

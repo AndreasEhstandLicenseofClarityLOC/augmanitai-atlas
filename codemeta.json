@@ -1,0 +1,61 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "author": [
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0009-0006-3773-7796",
+      "givenName": "Andreas",
+      "familyName": "Ehstand",
+      "honorificSuffix": "M.Ed.",
+      "affiliation": "AUGMANITAI Research Programme",
+      "jobTitle": "AI Researcher",
+      "email": "augmanitai@gmail.com",
+      "sameAs": [
+        "https://www.wikidata.org/wiki/Q138634675",
+        "https://orcid.org/0009-0006-3773-7796"
+      ]
+    }
+  ],
+  "programmingLanguage": [
+    "HTML",
+    "JavaScript",
+    "JSON-LD"
+  ],
+  "runtimePlatform": [
+    "Web",
+    "Linked Data Ecosystems"
+  ],
+  "applicationCategory": "Research",
+  "developmentStatus": "active",
+  "isAccessibleForFree": true,
+  "relatedLink": "https://augmanitai.com",
+  "dateCreated": "2024-01-01",
+  "dateModified": "2026-05-15",
+  "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author.",
+  "audience": "Adult users (18+) in academic or professional contexts",
+  "name": "AUGMANITAI Core Sample (Atlas)",
+  "description": "104 curated AUGMANITAI terms with full bilingual definitions presented as a searchable card-grid atlas. Curated public excerpt from the 1000-term AUGMANITAI compendium. Single-file HTML artifact with hand-written vanilla JS, no external dependencies.",
+  "version": "1.0",
+  "applicationSubCategory": "Terminology Atlas / Card-Grid Browser",
+  "keywords": [
+    "AUGMANITAI",
+    "atlas",
+    "terminology",
+    "card grid",
+    "human-AI interaction",
+    "phenomenology",
+    "core sample",
+    "104 terms"
+  ],
+  "codeRepository": "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-atlas",
+  "identifier": "https://doi.org/10.5281/zenodo.19317936",
+  "referencePublication": {
+    "@type": "ScholarlyArticle",
+    "name": "AUGMANITAI Research Programme: terminology and phenomenology of human-AI interaction",
+    "author": "Andreas Ehstand",
+    "datePublished": "2024",
+    "identifier": "https://doi.org/10.5281/zenodo.19317936"
+  }
+}

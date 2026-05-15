@@ -13,7 +13,7 @@
 ## Programme
 
 - Name: AUGMANITAI / PERMANITAI / NEOMANITAI / ROBMANITAI Research Programme
-- Wikidata: Q139491295
+- Wikidata: Q138522830
 - DOI registration: full programme is DOI-registered on Zenodo with access restricted to authorized parties; metadata-level provenance is publicly visible via DataCite.
 
 ## Provenance / Prior-Art
@@ -43,7 +43,7 @@
 - https://augmanitai.com — main programme site
 - https://orcid.org/0009-0006-3773-7796 — author ORCID
 - https://www.wikidata.org/wiki/Q138634675 — author Wikidata
-- https://www.wikidata.org/wiki/Q139491295 — programme Wikidata
+- https://www.wikidata.org/wiki/Q138522830 — programme Wikidata
 
 ## How to cite
 

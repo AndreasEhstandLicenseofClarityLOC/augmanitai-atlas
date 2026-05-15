@@ -6,7 +6,7 @@ authors:
   - family-names: Ehstand
     given-names: Andreas
     orcid: "https://orcid.org/0009-0006-3773-7796"
-    affiliation: "AUGMANITAI / PERMANITAI Research Programme (Wikidata Q139491295)"
+    affiliation: "AUGMANITAI / PERMANITAI Research Programme (Wikidata Q138522830)"
     city: "Starnberg"
     region: "Bavaria"
     country: "DE"
@@ -15,7 +15,7 @@ identifiers:
     value: "10.5281/zenodo.19809627"
     description: "AUGMANITAI Compendium Snapshot DOI (Working Paper Bundle 2026-04-27, parent of this curated atlas)"
   - type: url
-    value: "https://www.wikidata.org/wiki/Q139491295"
+    value: "https://www.wikidata.org/wiki/Q138522830"
     description: "Wikidata Q-Item of the AUGMANITAI / PERMANITAI Research Programme"
   - type: url
     value: "https://www.wikidata.org/wiki/Q138634675"
@@ -23,7 +23,7 @@ identifiers:
   - type: url
     value: "https://www.wikidata.org/wiki/Q138522830"
     description: "Wikidata Q-Item of the AUGMANITAI Compendium"
-repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-core-sample"
+repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-atlas"
 url: "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/"
 abstract: "Curated bilingual atlas of 104 phenomena from the AUGMANITAI Compendium with full-text search, keyboard navigation and inline disclaimer. Static research publication; audit-hardened against DSGVO, EU AI Act Art. 50, UWG, UrhG, DDG §5 and MStV §18(2). No cookies, no analytics, no third-party fetches."
 keywords:

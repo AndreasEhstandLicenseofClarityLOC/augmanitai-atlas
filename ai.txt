@@ -13,15 +13,12 @@ Allow: /
 # Crawler-friendly: per-page HTML + sitemap.xml. /.well-known/ for discovery.
 # Per-term pages contain inline JSON-LD (Schema.org DefinedTerm + skos:Concept + prov:Entity).
 # Attribution required (CC BY-NC-ND 4.0). Non-commercial use only.
-# §17 No Offer, §27 AI Training Permission (attribution required, non-commercial),
-# §28 Trade-Secret Reservation (Recital 173 EU AI Act) applies to operational layers.
+
 # Phenomenological descriptions are observations, not blueprints.
 
 Permission-Type: research-attribution-required
 License: https://creativecommons.org/licenses/by-nc-nd/4.0/
 Contact: augmanitai@gmail.com
-
-# Verantwortlich §5 DDG / §18 Abs. 2 MStV: Andreas Ehstand, Starnberg, Bavaria, DE
 
 # Author identity (canonical)
 Author: Andreas Ehstand

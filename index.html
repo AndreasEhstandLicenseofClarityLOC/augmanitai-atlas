@@ -240,6 +240,22 @@ button,.btn,[role="button"]{min-height:36px}
 .augmeta-review-orcid::before { content: "iD "; font-weight: 700; opacity: .8; } /* ---- Responsive small-screen tweaks --------------------------- */
 @media (max-width: 480px) { .augmeta-strip { gap: 6px; } .augmeta-status { font-size: 10px; padding: 2px 8px; } .augmeta-q-overall { font-size: 18px; }
 }
+
+/* touch-target-v1 */
+@media (pointer: coarse), (max-width: 800px) {
+  nav a, nav button, footer a, .links a, .footer-bottom a, .aug-sitenav-strip a,
+  .legal-nav a, .topnav a, .aug-sitenav a, .pn-bar a, header a,
+  a.link, a.brand, a.brand-link, a.logo, .corpus-card a, .branch-card a,
+  .domain-card a, .sister-card { min-height: 44px !important; display: inline-flex !important;
+    align-items: center !important; padding-top: 8px !important; padding-bottom: 8px !important; }
+  button { min-height: 44px !important; }
+}
+@media (max-width: 480px) {
+  body { font-size: 16px !important; }
+  h1 { font-size: clamp(1.6em, 6vw, 2.2em) !important; }
+  .container, main, section { padding-left: 16px !important; padding-right: 16px !important; }
+}
+
 </style> <!-- ============================================================= -->
 <!-- AUGMANITAI Shared Disclaimer Block · Version v1 · 2026-04-21 -->
 <!-- Inline on every public HTML page. §1-§29 canonical + §27 -->

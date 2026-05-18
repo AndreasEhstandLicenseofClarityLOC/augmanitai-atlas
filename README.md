@@ -1,6 +1,6 @@
 # AUGMANITAI Core Sample
 
-104 curated AUGMANITAI terms with full definitions. Excerpt from the 1000-term compendium. CC BY-NC-ND 4.0.
+79 curated AUGMANITAI terms with full definitions. Excerpt from the larger AUGMANITAI compendium. CC BY-NC-ND 4.0.
 
 **Live:** https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/
 
@@ -28,7 +28,7 @@
 
 ## Scope
 
-This repository contains a **curated public excerpt** from the 1000-term
+This repository contains a **curated public excerpt** from the larger
 AUGMANITAI compendium. The full corpus is not hosted here. The §1–§27 bilingual
 disclaimer inline in `index.html` provides full legal terms, including the §27
 AI-Training clause.

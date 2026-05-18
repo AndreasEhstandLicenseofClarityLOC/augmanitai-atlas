@@ -35,7 +35,7 @@
   "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author.",
   "audience": "Adult users (18+) in academic or professional contexts",
   "name": "AUGMANITAI Core Sample (Atlas)",
-  "description": "104 curated AUGMANITAI terms with full bilingual definitions presented as a searchable card-grid atlas. Curated public excerpt from the 1000-term AUGMANITAI compendium. Single-file HTML artifact with hand-written vanilla JS, no external dependencies.",
+  "description": "79 curated AUGMANITAI terms with full bilingual definitions presented as a searchable card-grid atlas. Curated public excerpt from the larger AUGMANITAI compendium. Single-file HTML artifact with hand-written vanilla JS, no external dependencies.",
   "version": "1.0",
   "applicationSubCategory": "Terminology Atlas / Card-Grid Browser",
   "keywords": [
@@ -46,7 +46,7 @@
     "human-AI interaction",
     "phenomenology",
     "core sample",
-    "104 terms"
+    "79 terms"
   ],
   "codeRepository": "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-atlas",
   "identifier": "https://doi.org/10.5281/zenodo.19317936",

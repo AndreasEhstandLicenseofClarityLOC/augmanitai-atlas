@@ -1,7 +1,7 @@
 {
-  "title": "augmanitai-atlas: AUGMANITAI Concept Atlas (Static Pages)",
+  "title": "augmanitai-atlas: AUGMANITAI Atlas — Curated Card-Grid of 79 Human-AI Interaction Terms",
   "upload_type": "publication",
-  "description": "Per-term static page atlas of the AUGMANITAI corpus. Each page carries JSON-LD, schema.org annotation, and cross-links to related terms; designed for semantic web crawler indexing and linked-data discoverability.",
+  "description": "Searchable card-grid atlas of 79 curated AUGMANITAI terms with full bilingual (EN+DE) definitions, full-text search, keyboard navigation, and an inline disclaimer. Single-file HTML artifact with hand-written vanilla JavaScript and no external dependencies. Curated public excerpt from the larger AUGMANITAI compendium.",
   "creators": [
     {
       "name": "Ehstand, Andreas",
@@ -15,12 +15,12 @@
   "keywords": [
     "AUGMANITAI",
     "atlas",
-    "JSON-LD",
-    "schema.org",
-    "static pages",
-    "SEO",
-    "LLM corpus",
-    "terminology"
+    "card grid",
+    "human-AI interaction",
+    "phenomenology",
+    "terminology",
+    "bilingual",
+    "JSON-LD"
   ],
   "communities": [],
   "related_identifiers": [

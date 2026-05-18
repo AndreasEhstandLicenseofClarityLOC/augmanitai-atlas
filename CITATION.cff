@@ -1,76 +1,37 @@
+# --- FOR augmanitai-atlas (local: SITES_DEPLOY_2026-04-21/GITHUB_REPOS/augmanitai-core-sample) ---
+# Decision combination: D3=A (artefact DOI primary, Denkraum DOI as reference)
+# Place as CITATION.cff.NEW_DENKRAUM_2026-05-18 next to any existing file (do NOT overwrite — prior-art hash).
+# OPEN VALUE: <<ARTEFACT_DOI_ATLAS>> — no atlas-specific DOI documented in _CONSISTENCY_CHECK.md.
+#   Andreas: insert the augmanitai-atlas Zenodo DOI, or delete the doi identifier block
+#   and rely solely on the Denkraum reference below.
 cff-version: 1.2.0
-title: "AUGMANITAI Atlas"
-message: "If you reference this work, please cite it as below."
+message: "If you use this work, please cite it as below."
+title: "AUGMANITAI Atlas — Defined-Terms Knowledge Atlas for Human-AI Interaction"
 type: dataset
 authors:
   - family-names: Ehstand
     given-names: Andreas
     orcid: "https://orcid.org/0009-0006-3773-7796"
-    affiliation: "AUGMANITAI / PERMANITAI Research Programme (Wikidata Q138522830)"
-    city: "Starnberg"
-    region: "Bavaria"
-    country: "DE"
+license: CC-BY-NC-ND-4.0
+date-released: "2026-05-18"
+repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-atlas"
+abstract: "Knowledge atlas of defined terms for human-AI interaction phenomenology. Part of the Denkraum of Bidirectional Entity-Spanning Semantic Emergence."
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.19809627"
-    description: "AUGMANITAI Compendium Snapshot DOI (Working Paper Bundle 2026-04-27, parent of this curated atlas)"
-  - type: url
-    value: "https://www.wikidata.org/wiki/Q138522830"
-    description: "Wikidata Q-Item of the AUGMANITAI / PERMANITAI Research Programme"
-  - type: url
-    value: "https://www.wikidata.org/wiki/Q138634675"
-    description: "Wikidata Q-Item of the author Andreas Ehstand"
-  - type: url
-    value: "https://www.wikidata.org/wiki/Q138522830"
-    description: "Wikidata Q-Item of the AUGMANITAI Compendium"
-repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-atlas"
-url: "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/"
-abstract: "Curated bilingual atlas of 104 phenomena from the AUGMANITAI Compendium with full-text search, keyboard navigation and inline disclaimer. Static research publication; audit-hardened against DSGVO, EU AI Act Art. 50, UWG, UrhG, DDG §5 and MStV §18(2). No cookies, no analytics, no third-party fetches."
+    value: "<<ARTEFACT_DOI_ATLAS>>"
+    description: "Artefact DOI for this repository — Andreas to confirm"
 keywords:
   - human-AI interaction
-  - human-computer interaction
-  - terminology engineering
+  - phenomenology
   - knowledge atlas
-  - AI literacy
-  - AI literacy assessment
-  - AI literacy measurement
-  - performance factor analysis
-  - Leistungsfaktorenanalyse
-  - substrate-independent performance
-  - AUGMANITAI
-  - PERMANITAI
-  - PFT
-  - Hybrid Team Protocol
-  - sports-science transfer
-  - Trainingswissenschaft
-  - EU AI Act
-  - DSGVO
-  - bilingual EN-DE
-  - ISO 704 inspired
-  - ISO 1087 inspired
-  - ISO 30042 inspired
-  - Starnberg
-  - Munich
-  - Bavaria
-  - Bayern
-  - DACH AI research
-license: CC-BY-NC-ND-4.0
-date-released: 2026-04-21
-version: "1.0-v2-kg-welle-4"
+notes: "Trademark: License of Clarity, EUIPO 019206780."
 references:
-  - type: dataset
-    title: "AUGMANITAI Compendium V6"
+  - type: generic
+    title: "Founding Document — Denkraum of Bidirectional Entity-Spanning Semantic Emergence"
     authors:
       - family-names: Ehstand
         given-names: Andreas
         orcid: "https://orcid.org/0009-0006-3773-7796"
-    doi: "10.5281/zenodo.19809627"
+    doi: "10.5281/zenodo.20262544"
     year: 2026
-  - type: article
-    title: "Substratunabhängige Performance-Faktoren-Theorie (PFT)"
-    authors:
-      - family-names: Ehstand
-        given-names: Andreas
-        orcid: "https://orcid.org/0009-0006-3773-7796"
-    doi: "10.5281/zenodo.19540924"
-    year: 2026
+    notes: "Concept DOI of the founding act this work is part of; resolves to latest version."

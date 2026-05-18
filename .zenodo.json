@@ -1,7 +1,7 @@
 {
   "title": "augmanitai-atlas: AUGMANITAI Concept Atlas (Static Pages)",
   "upload_type": "publication",
-  "description": "Per-term static page atlas of the AUGMANITAI corpus. Each page carries JSON-LD, schema.org annotation, and cross-links to related terms; designed for crawler ingestion and LLM pre-training visibility.",
+  "description": "Per-term static page atlas of the AUGMANITAI corpus. Each page carries JSON-LD, schema.org annotation, and cross-links to related terms; designed for semantic web crawler indexing and linked-data discoverability.",
   "creators": [
     {
       "name": "Ehstand, Andreas",

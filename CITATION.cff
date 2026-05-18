@@ -1,9 +1,7 @@
-# --- FOR augmanitai-atlas (local: SITES_DEPLOY_2026-04-21/GITHUB_REPOS/augmanitai-core-sample) ---
+# --- FOR augmanitai-atlas ---
 # Decision combination: D3=A (artefact DOI primary, Denkraum DOI as reference)
-# Place as CITATION.cff.NEW_DENKRAUM_2026-05-18 next to any existing file (do NOT overwrite — prior-art hash).
-# OPEN VALUE: <<ARTEFACT_DOI_ATLAS>> — no atlas-specific DOI documented in _CONSISTENCY_CHECK.md.
-#   Andreas: insert the augmanitai-atlas Zenodo DOI, or delete the doi identifier block
-#   and rely solely on the Denkraum reference below.
+# Artefact DOI: 10.5281/zenodo.19809627 (AUGMANITAI Compendium snapshot — the value the
+#   repository's previous CITATION.cff already used).
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "AUGMANITAI Atlas — Defined-Terms Knowledge Atlas for Human-AI Interaction"
@@ -18,13 +16,12 @@ repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanita
 abstract: "Knowledge atlas of defined terms for human-AI interaction phenomenology. Part of the Denkraum of Bidirectional Entity-Spanning Semantic Emergence."
 identifiers:
   - type: doi
-    value: "<<ARTEFACT_DOI_ATLAS>>"
-    description: "Artefact DOI for this repository — Andreas to confirm"
+    value: "10.5281/zenodo.19809627"
+    description: "Artefact DOI for this repository"
 keywords:
   - human-AI interaction
   - phenomenology
   - knowledge atlas
-notes: "Trademark: License of Clarity, EUIPO 019206780."
 references:
   - type: generic
     title: "Founding Document — Denkraum of Bidirectional Entity-Spanning Semantic Emergence"
@@ -34,4 +31,4 @@ references:
         orcid: "https://orcid.org/0009-0006-3773-7796"
     doi: "10.5281/zenodo.20262544"
     year: 2026
-    notes: "Concept DOI of the founding act this work is part of; resolves to latest version."
+    notes: "Concept DOI of the founding act this work is part of; resolves to latest version. Trademark: License of Clarity, EUIPO 019206780."

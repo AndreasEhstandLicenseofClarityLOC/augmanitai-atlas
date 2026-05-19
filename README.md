@@ -1,13 +1,13 @@
 # AUGMANITAI Core Sample
 
-79 curated AUGMANITAI terms with full definitions. Excerpt from the larger AUGMANITAI compendium. CC BY-NC-ND 4.0.
+79 curated AUGMANITAI terms with full definitions. Curated public card-grid excerpt of the 1,128-term `augmanitai-stage-0` corpus. CC BY-NC-ND 4.0.
 
 **Live:** https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/
 
 ## Features
 
 - Card grid with full definitions
-- Search highlighting (<mark> matches)
+- Search highlighting (`<mark>` matches)
 - Keyboard-grid-navigation
 - Modal detail view with share intents
 - Welcome overlay (one-time)
@@ -17,7 +17,7 @@
 
 - **Author:** Andreas Ehstand
 - **ORCID:** [0009-0006-3773-7796](https://orcid.org/0009-0006-3773-7796)
-- **DOI (canonical):** [10.5281/zenodo.19317936](https://doi.org/10.5281/zenodo.19317936)
+- **DOI (canonical):** [10.5281/zenodo.20058223](https://doi.org/10.5281/zenodo.20058223)
 - **License:** CC BY-NC-ND 4.0 (see `LICENSE`)
 
 ## Prior-Art
@@ -28,27 +28,19 @@
 
 ## Scope
 
-This repository contains a **curated public excerpt** from the larger
-AUGMANITAI compendium. The full corpus is not hosted here. The §1–§27 bilingual
-disclaimer inline in `index.html` provides full legal terms, including the §27
-AI-Training clause.
+This repository contains a **curated public card-grid excerpt** (79 terms) of the larger AUGMANITAI Stage-0 corpus (1,128 terms across 187 research-domain clusters). The full Stage-0 corpus lives at [augmanitai-stage-0](https://andreasehstandlicenseofclarityloc.github.io/augmanitai-stage-0/). The §1–§27 bilingual disclaimer inline in `index.html` provides full legal terms, including the §27 AI-Training clause.
 
 ## No foreign code
 
-The site is a **single-file HTML artifact**. All JavaScript (physics, graph
-layout, convex-hull algorithm, minimap rendering, PNG export, event handlers,
-focus traps) is **hand-written vanilla JS**. There are no CDN dependencies, no
-bundled libraries (no React / Vue / jQuery / D3 / Bootstrap / Tailwind /
-Chart.js / Three.js), and no external stylesheets or fonts.
+The site is a **single-file HTML artifact**. All JavaScript (physics, graph layout, convex-hull algorithm, minimap rendering, PNG export, event handlers, focus traps) is **hand-written vanilla JS**. There are no CDN dependencies, no bundled libraries (no React / Vue / jQuery / D3 / Bootstrap / Tailwind / Chart.js / Three.js), and no external stylesheets or fonts.
 
 ## Deployment
 
 This is a static GitHub Pages site. Deployment steps:
 
-1. Push this folder to `https://github.com/<YOUR-GH-USER>/augmanitai-core-sample`.
+1. Push this folder to `https://github.com/<YOUR-GH-USER>/augmanitai-atlas`.
 2. Enable GitHub Pages: Settings -> Pages -> Source: main -> root -> Save.
-3. DNS: point `CNAME andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas` to `<YOUR-GH-USER>.github.io`.
-4. Wait for DNS propagation and certificate issuance (GitHub auto-issues TLS).
+3. Wait for DNS propagation and certificate issuance (GitHub auto-issues TLS).
 
 ## Contact
 

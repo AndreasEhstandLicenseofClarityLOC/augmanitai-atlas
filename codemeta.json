@@ -8,9 +8,9 @@
       "@id": "https://orcid.org/0009-0006-3773-7796",
       "givenName": "Andreas",
       "familyName": "Ehstand",
-      "affiliation": "AUGMANITAI Research Programme",
-      "jobTitle": "AI Researcher",
-      "email": "augmanitai@gmail.com",
+      "affiliation": "Augmanitai Research Programme",
+      "jobTitle": "Independent Researcher",
+      "email": "ehstand.schule@gmail.com",
       "sameAs": [
         "https://www.wikidata.org/wiki/Q138634675",
         "https://orcid.org/0009-0006-3773-7796"
@@ -31,12 +31,12 @@
   "isAccessibleForFree": true,
   "relatedLink": "https://augmanitai.com",
   "dateCreated": "2024-01-01",
-  "dateModified": "2026-05-15",
-  "ai_disclosure": "Content developed with AI assistance. Reviewed and approved by the author.",
+  "dateModified": "2026-06-15",
+  "ai_disclosure": "Content developed with AI assistance and reviewed/approved by the human author. AI-assisted/synthetic text is marked. Disclosure per EU AI Act (Regulation (EU) 2024/1689) Article 50, effective 2026-08-02.",
   "audience": "Adult users (18+) in academic or professional contexts",
-  "name": "AUGMANITAI Core Sample (Atlas)",
-  "description": "79 curated AUGMANITAI terms with full bilingual definitions presented as a searchable card-grid atlas. Curated public excerpt from the larger AUGMANITAI compendium. Single-file HTML artifact with hand-written vanilla JS, no external dependencies.",
-  "version": "1.0",
+  "name": "AUGMANITAI Atlas (Curated Excerpt)",
+  "description": "Curated AUGMANITAI terms with full bilingual definitions presented as a searchable card-grid atlas. Curated public excerpt from the larger Augmanitai compendium. Single-file HTML artifact with hand-written vanilla JS, no external dependencies.",
+  "version": "1.1",
   "applicationSubCategory": "Terminology Atlas / Card-Grid Browser",
   "keywords": [
     "AUGMANITAI",
@@ -44,17 +44,16 @@
     "terminology",
     "card grid",
     "human-AI interaction",
-    "phenomenology",
-    "core sample",
-    "79 terms"
+    "phenomenology"
   ],
   "codeRepository": "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-atlas",
-  "identifier": "https://doi.org/10.5281/zenodo.19317936",
+  "identifier": "https://doi.org/10.5281/zenodo.20161494",
+  "isPartOf": "https://doi.org/10.5281/zenodo.20161494",
   "referencePublication": {
     "@type": "ScholarlyArticle",
-    "name": "AUGMANITAI Research Programme: terminology and phenomenology of human-AI interaction",
+    "name": "Augmanitai Research Programme: terminology and phenomenology of human-AI interaction",
     "author": "Andreas Ehstand",
-    "datePublished": "2024",
-    "identifier": "https://doi.org/10.5281/zenodo.19317936"
+    "datePublished": "2026",
+    "identifier": "https://doi.org/10.5281/zenodo.20161494"
   }
 }

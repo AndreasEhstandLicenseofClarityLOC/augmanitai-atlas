@@ -7,24 +7,29 @@ authors:
     given-names: Andreas
     orcid: "https://orcid.org/0009-0006-3773-7796"
 license: CC-BY-NC-ND-4.0
-date-released: "2026-05-18"
+date-released: "2026-06-15"
 repository-code: "https://github.com/AndreasEhstandLicenseofClarityLOC/augmanitai-atlas"
-abstract: "Knowledge atlas of defined terms for human-AI interaction phenomenology. Part of the Denkraum of Bidirectional Entity-Spanning Semantic Emergence."
+url: "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/"
+abstract: "Knowledge atlas of defined terms for the descriptive phenomenology of human-AI interaction. Curated bilingual (EN/DE) public excerpt of the Augmanitai Compendium."
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.19809627"
-    description: "Artefact DOI for this repository"
+    value: "10.5281/zenodo.20161494"
+    description: "Canonical Concept-DOI (evergreen). Cite this."
+  - type: doi
+    value: "10.5281/zenodo.19317936"
+    description: "Artefact DOI for this atlas record."
 keywords:
   - human-AI interaction
   - phenomenology
   - knowledge atlas
-references:
-  - type: generic
-    title: "Founding Document — Denkraum of Bidirectional Entity-Spanning Semantic Emergence"
-    authors:
-      - family-names: Ehstand
-        given-names: Andreas
-        orcid: "https://orcid.org/0009-0006-3773-7796"
-    doi: "10.5281/zenodo.20262544"
-    year: 2026
-    notes: "Concept DOI of the founding act this work is part of; resolves to latest version. Trademark: License of Clarity, EUIPO 019206780."
+  - terminology
+preferred-citation:
+  type: dataset
+  title: "AUGMANITAI Atlas — Defined-Terms Knowledge Atlas for Human-AI Interaction"
+  authors:
+    - family-names: Ehstand
+      given-names: Andreas
+      orcid: "https://orcid.org/0009-0006-3773-7796"
+  doi: "10.5281/zenodo.20161494"
+  year: 2026
+  notes: "Canonical Concept-DOI of the programme this work is part of; resolves to latest version. Trademark: License of Clarity, EUIPO 019206780."

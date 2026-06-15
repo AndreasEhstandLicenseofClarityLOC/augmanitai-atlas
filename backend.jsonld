@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/#website",
+  "name": "AUGMANITAI Atlas — Curated Excerpt",
+  "url": "https://andreasehstandlicenseofclarityloc.github.io/augmanitai-atlas/",
+  "inLanguage": ["en", "de"],
+  "description": "Searchable card-grid atlas of curated AUGMANITAI terms with full bilingual definitions. Curated public excerpt from the Augmanitai compendium on the descriptive phenomenology of human-AI interaction.",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "@id": "https://doi.org/10.5281/zenodo.20161494",
+    "name": "Augmanitai Research Programme (canonical Concept-DOI)",
+    "identifier": "https://doi.org/10.5281/zenodo.20161494"
+  },
+  "mainEntity": {
+    "@type": "Dataset",
+    "name": "AUGMANITAI Atlas — Defined-Terms Knowledge Atlas",
+    "identifier": "https://doi.org/10.5281/zenodo.20161494",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "keywords": ["human-AI interaction", "phenomenology", "terminology", "knowledge atlas"],
+    "creator": {
+      "@type": "Person",
+      "@id": "https://orcid.org/0009-0006-3773-7796",
+      "name": "Andreas Ehstand",
+      "jobTitle": "Independent Researcher",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Augmanitai Research Programme",
+        "sameAs": "https://www.wikidata.org/wiki/Q138522830"
+      },
+      "sameAs": [
+        "https://orcid.org/0009-0006-3773-7796",
+        "https://www.wikidata.org/wiki/Q138634675"
+      ]
+    }
+  },
+  "author": {
+    "@type": "Person",
+    "@id": "https://orcid.org/0009-0006-3773-7796",
+    "name": "Andreas Ehstand",
+    "email": "ehstand.schule@gmail.com",
+    "jobTitle": "Independent Researcher",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Augmanitai Research Programme",
+      "sameAs": "https://www.wikidata.org/wiki/Q138522830"
+    },
+    "sameAs": [
+      "https://orcid.org/0009-0006-3773-7796",
+      "https://www.wikidata.org/wiki/Q138634675"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Augmanitai Research Programme",
+    "sameAs": "https://www.wikidata.org/wiki/Q138522830"
+  },
+  "disclaimer": "AI-assisted content, human-reviewed; synthetic/assisted text is marked per EU AI Act Article 50 (effective 2026-08-02)."
+}

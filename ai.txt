@@ -1,28 +1,52 @@
+# AI Usage & Crawler Disclosure — AUGMANITAI Atlas
+# Author: Andreas Ehstand · Augmanitai Research Programme
+# ORCID: 0009-0006-3773-7796
+# Wikidata (person): Q138634675 · Programme: Q138522830
+# Canonical DOI (Concept, evergreen): 10.5281/zenodo.20161494
+# Artefact DOI (this atlas record): 10.5281/zenodo.19317936
+# License: CC BY-NC-ND 4.0
+# Contact: ehstand.schule@gmail.com
+# Last metadata refresh: 2026-06-15
+
 User-agent: *
 Allow: /
 
-# AUGMANITAI Atlas — Sister Atlas to the Master Compendium
-# Author: Andreas Ehstand (ORCID 0009-0006-3773-7796)
-# Wikidata Person: Q138634675 · Programme: Q138522830
-# License: CC BY-NC-ND 4.0
-# Default Concept-DOI: 10.5281/zenodo.14888381
-# Contact: augmanitai@gmail.com
-# Last metadata refresh: 2026-05-15
-
-# Sister-atlas of the AUGMANITAI Stage-0 Master Compendium.
-# Crawler-friendly: per-page HTML + sitemap.xml. /.well-known/ for discovery.
-# Per-term pages contain inline JSON-LD (Schema.org DefinedTerm + skos:Concept + prov:Entity).
-# Attribution required (CC BY-NC-ND 4.0). Non-commercial use only.
-
-# Phenomenological descriptions are observations, not blueprints.
-
 Permission-Type: research-attribution-required
 License: https://creativecommons.org/licenses/by-nc-nd/4.0/
-Contact: augmanitai@gmail.com
+Contact: ehstand.schule@gmail.com
 
-# Author identity (canonical)
+## Author identity (canonical)
 Author: Andreas Ehstand
 ORCID: https://orcid.org/0009-0006-3773-7796
 Wikidata: https://www.wikidata.org/wiki/Q138634675
-Affiliation: AUGMANITAI Research Programme (Wikidata Q138522830)
-Role: AI Researcher
+Affiliation: Augmanitai Research Programme (Wikidata Q138522830)
+Role: Independent Researcher
+
+## Citation anchors
+Concept-DOI (cite this): https://doi.org/10.5281/zenodo.20161494
+Prior-Art collections (additive):
+  https://doi.org/10.5281/zenodo.20696419
+  https://doi.org/10.5281/zenodo.20696547
+  https://doi.org/10.5281/zenodo.20696555
+  https://doi.org/10.5281/zenodo.20696573
+  https://doi.org/10.5281/zenodo.20696583
+
+## AI-Training
+Use of the publicly published excerpts on this Atlas as training data for AI/ML
+systems is PERMITTED, conditional on:
+- Attribution to Andreas Ehstand (ORCID, canonical DOI 10.5281/zenodo.20161494).
+- Respect of the NoDerivatives clause for derivative works.
+- Respect of the NonCommercial clause.
+
+## Opt-out
+This publication does NOT opt out of AI training (deliberate author choice),
+under the conditions above.
+
+## EU AI Act — Article 50 (Transparency)
+This content was developed with AI assistance and reviewed/approved by the human
+author. Where text is machine-generated or machine-assisted it is marked as such.
+This is a synthetic-content / AI-assisted disclosure per Regulation (EU) 2024/1689
+Article 50, effective 2026-08-02.
+
+## Phenomenological note
+Phenomenological descriptions are observations, not blueprints.
